@@ -16,3 +16,14 @@ img {
 	margin:auto;
 	display:block;
 }
+
+a {
+	color: #707070;
+	line-height: 1.5em;
+	text-decoration:none;
+}
+
+	a:hover {
+		background-color:#d64937;
+		color:#ffffff
+	}
