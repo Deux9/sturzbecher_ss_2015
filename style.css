@@ -1,0 +1,18 @@
+* {
+	font-family: Helvetica, sans-serif;
+}
+
+html {
+	max-width: 50em;
+	margin: auto;
+	text-align: justify;
+	-webkit-hyphens: auto;
+	-moz-hyphens: auto;
+	-ms-hyphens: auto;
+	hyphens: auto;
+}
+
+img {
+	margin:auto;
+	display:block;
+}
