@@ -408,11 +408,11 @@ FV 10.2 -- Väter
 #### New Home Economics Theory
 - Partner mit höherem Einkommen weniger Zeit für Haushaltstätigkeit -> Maximierung des Haushaltseinkommens
 
-###Rollentheoretische Perspektive
+####Rollentheoretische Perspektive
 - geschlechtsspezifische Sozialisation als Schlüssel zum Verständnis familialer Aufgabenteilung
 - traditionelles Rollenverständnis -> traditionellere Rollenteilung
 - viel empirische Bestätigung
 
-###familienzyklischer Ansatz
+####familienzyklischer Ansatz
 - Entwicklung der Familie -> veränderte Anforderungen und Beziehungsmuster
 - Erklärung für unterschiedliche väterliche Partizipation in bestimmten Phasen der Familienentwicklung
