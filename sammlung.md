@@ -1,16 +1,11 @@
 ---
 title: Jugend- und Familiensoziologie II
-author: © 2015 Martin Freidank
+author: Martin Freidank
 license: GNU Free Documentation License
 language: de
 ---
 
-- - -
 
-	veröffentlicht unter der GNU Free Documentation License
-Github: [https://github.com/Deux9/sturzbecher_ss_2015](https://github.com/Deux9/sturzbecher_ss_2015) für druckoptimierte PDF und Sourcecode
-
-- - -
 
 JV 9.2 -- Risikoverhalten
 =========================
@@ -54,26 +49,15 @@ Defizite bei der Verarbeitung sozialer Informationen
 - geachtetes Konstrukt geschlossener biopsychosozialen Persönlichkeitstheorie
 - Kritik: Vernachlässigung von kognitiven Aspekten, Sozialisationskontexten und leistungsthematischen Komponenten → Umgebungseinflüsse, Kritik an der Methode des SS-Tests
 
-##Sozialwissenschaftliche Erklärungsansätze
+##Sozialwissenschaftliche Erklärungsansätze (nur einen lernen)
 
-###Sozialpsychologische Perspektive (nur einen lernen)
+###Sozialpsychologische Perspektive
 
 - "Risky Shift"-Phänomen: In der Gruppe getroffene Entscheidung riskanter
 	- Diffusion der Verantwortung: Individuum „versteckt sich hinter Gruppe“
 	- Informationsniveau: erhöhte Anzahl von Argumenten und Sichtweisen → objektiverer Eindruck
 	- Führerschaft: risikofreudige Führerfigur lässt verstärkende Risikoargumente eher zu und verstärkt diese
 	- Risikobereitschaft als sozialer Wert: Status innerhalb der Gruppe
-
-###Psychosoziale Perspektive -- „Problem-Behavior-Theory“
-
-- Ursprünge in der sozialen Lerntheorie, Kontrolltheorie und Anomie-Theorie
-- Risikoverhalten als missbilligtes, normabweichendes Verhalten
-- Begründung auf drei Systeme
-	1. Persönlichkeit
-	2. soziales Umfeld
-	3. Verhalten
-
-###Sozialisationstheoretische Perspektive
 
 ##Integrative Erkärungsansätze (nur einen lernen)
 
@@ -224,13 +208,211 @@ JV 13.1 -- Werte
 ##Definition und Funktion
 
 - grundlegende Orientierungen von Individuen und sozialen Gruppen
-- emotional besetzte Vorstellungen über das gerechtfertigt Wünschenswerte -> handlungswirksam und verhaltenssteuernd
-- verankert in Normen, Persönlichkeits- und Motivationsstruktur in Gesellschaft -> stabilitätsfördernd
+- emotional besetzte Vorstellungen über das gerechtfertigt Wünschenswerte → handlungswirksam und verhaltenssteuernd
+- verankert in Normen, Persönlichkeits- und Motivationsstruktur in Gesellschaft → stabilitätsfördernd
 - Diagnostische Funktion:
-	- Kenntnis von gesellschaftlichen Werten -> Kultur
-	- Kenntnis von Werten einer Person -> Lebensziele
+	- Kenntnis von gesellschaftlichen Werten → Kultur
+	- Kenntnis von Werten einer Person → Lebensziele
 
 ##Wertewandel vs. Wertesynthese
 ###Wertewandel nach Inglehart
-- Ablösung traditionsgebundener Werter durch Neue
+- Ablösung traditionsgebundener Werter durch Neue → Wertesubstitution
 - hierarchisch in bipolarem Kontinuum zwischen Materialismus und Postmaterialismus
+
+####Mangelhypothese:
+- Prioritäten reflektieren sozioökonomisches Umfeld
+- größter subjektiver Wert sind Dinge, die zu knapp sind
+
+####Sozialisationshypothese:
+- Intra-individuelle Stabilität
+- Wertvorstellungen spiegeln vorherrschende Bedingungen der Jugendzeit wider
+
+####Methodik:
+- Ra _nk_ ing-Verfahren von Wertorientierungen: Inglehart-Index
+- zwei Pole schließen sich aus → "Forced choice situation"
+
+###Wertesynthese nach Klage
+
+- zwei unabhängige Wertgruppen:
+	- Pflicht- und Akzeptanzwerte: Selbstkontrolle
+	- Selbstentfaltungswerte: Befreiung von Zwängen
+- Wertesynthese: Beide Wertgruppen von Wertewandel betroffen. Keine exklusiven Pole → keine Verschiebung sondern Rekombination
+
+####Lebenszyklus-Hypothese
+- Veränderungen individueller Wertorientierungen durch Anspassung an lebensphasenspezifische Rollenanforderungen möglich
+
+####Methodik:
+- Ra _t_ ing-Verfahren: voneinander unabhängige Pflicht- und Selbstentfaltungswerte sollen nach Indikatoren einzeln hinsichtlich ihrer Wichtigkeit beurteilt werden
+- Möglichkeit gleichrangiger Orientierung auf verschiedene Werte
+
+##Beispiele für Wertorientierungen:
+- materialistisch:
+	- Psychologische Grundbedürfnisse: Atmung, Trinken, Nahrung, Schlaf
+	- Sicherheit: Wohnung, Job, Gesundheit
+- postmaterialistisch:
+	- Soziale Bedürfnisse: Partnerschaft, Kommunikation, Freunde
+	- Individualbedürfnisse: Status, Macht, Karriere
+
+JV 14.1 -- Zukunftserwartungen
+==============================
+
+>_Erläutern Sie, was "Zukunftserwartungen" sind, wozu sie dienen und in welchem Zusammenhang sie zu Persönlichkeitsmerkmalen wie Selbstwirksamkeits- und Kontrollüberzeugungen stehen! Was versteht man unter "Heimatverbundenheit" und welche Faktoren beeinflussen die Heimatverbundenheit bzw. die Zufriedenheit mit dem Heimatort bei Jugendlichen nachweislich (vier Beispiele)? Beschreiben Sie das Migrationsverhalten von (ostdeutschen) Frauen einschließlich ihrer Beweggründe für Migration! Nennen Sie Schlussfolgerungen für eine erfolgreiche Regionalpolitik!_
+
+##Definition
+
+psychische Repräsentationen über zukünftige Lebensereignisse
+
+- positiv: Wünsche, Hoffnungen
+- negativ: Befürchtungen, Ängste
+
+Fusion: Orientierungs- und Strukturieungshilfe für die Lebenshilfe
+
+##Zukunftserwartungen und Persönlichkeit
+
+- verschiedene Planungs- und Verhaltensrelevanz individueller und gesellschaftlicher Zukunftserwartungen → unterschiedlicher Zusammenhang zum Selbstwirksamkeitserleben
+- Überschätzung eigener Handlungsfähigkeit motiviert und ist selbstwertstabilisierend, -erhöhend
+- Kontrollüberzeugungen: Erwartungen, inwieweit das egeiene Handeln und seine Folgen dem eigenen Einfluss zugänglich sind
+	- External: fremde Mächte (Gott)
+	- Internal: eigenen Glückes Schmied
+- internale Kontrollüberzeugung hat direkten Einfluss auf Zukunftserwartungen (internal → Optimismus, external → Blockade positiver Zukunftserwartung)
+
+##Heimatverbundenheit
+emotionale Identifikation mit einer vertrauten Region
+
+- soziale Zugehörigkeit
+- Geborgenheit
+- Interesse am kommunalen Geschehen
+- Verpflichtung
+
+###Einflussfaktoren für Heimatverbundenheit
+
+- Soziodemografische Angaben (Alter, Geschlecht, Wohnort)
+- Lebensziele (Familienorientierung, Beruf)
+- Soziale Netzwerke (Freundschaften, Vereine)
+- Ressourcen der Kommune (Bevölkerung, Arbeitsmarkt)
+
+##Migrationsverhalten von ostdeutschen Frauen
+- Gründe
+	- Partnermarkt (am Häufigsten)
+	- Bildung: Aussicht auf Qualifizierung
+	- Soziale Netzwerke
+- Mütter mit Kindern weniger mobil - mehr Wanderung von kinderlosen Frauen
+- Exogene Faktoren
+	- Arbeitsplatzangebot
+	- Lebensbedingungen
+	- Image der Region
+	- sozio-ökonomischer Status
+- Indogene Faktoren
+	- Qualifikation
+	- Berufsorientierung
+	- Motivation
+	-Familienorientierung
+- erleichternde Faktoren
+	- Migrationsnetzwerke
+	- Mobilitätsbeihilfen
+	- Beispiele von Freunden, Verwandten
+	
+##Erfolgreiche Regionalpolitik
+- Berücksichtigung von Frauen als wichtiger Migrantengruppe und Doppelorientierung von Familie und Beruf
+- Investition in wirtschaftliche Leistungsfähigkeit, Stärkung der Rahmenbedingungen, Stärkung der Familie, Nachbarschaft, Kultur, Lebensqualität
+- Arbeitsmarkt, der Vereinbarkeit von Beruf und Familie ermöglichst
+- Attraktive Studien- und Ausbildungsangebote
+
+FV 8.2 -- Kinderwunsch
+======================
+>_Beschreiben Sie den historischen Wandel des Kinderwunsches aus der Perspektive des Rational-Choice-Ansatzes! Stellen Sie dar, wie sich die historischen Veränderungen auf die Bedingungen des Aufwachsens für Kinder im Allgemeinen und auf die Eltern-Kind-Beziehung im Besonderen auswirken!_
+
+##Grundlagen Rational Choice
+- Mensch als subjektiv rationaler Akteur: zielgerichtet handelnder Nutzen-Maximierer
+- resourceful, restricted, expecting, evaluating, maximizing man
+- menschliches Handeln als Lösen von Problemen: Bedürfnisse Befriedigen und Ziele erreichen → Notwendigkeit sozialen Handelns (fremde Ressourcenkontrolle)
+
+##Rational Choice und Kinderwunsch
+- Dimensionen der elterlichen Nutzenerwartungen an Kinder
+	- materiell
+	- psychologisch
+	- sozial-normativ
+- technischer Industrialisierungsgrad ~ immaterielle Nutzenerwartungen
+- Absicherung im Sozial- und Wohlfahrtsstaat: kein materieller Anreiz für Kinder
+
+###Kinder als finanzielle Belastung
+- Ziel: Kindern optimale Bedingungen bieten
+	- abgeschlossene Ausbildung
+	- beruflich abgesichert
+	- gute Finanz- und Wohnverhältnisse
+- heute mehr Leistungen von Eltern mobilisiert (Beziehungen, ökonomischer Aufwand, zeitlicher Umfang)
+- Armutsrisiko steigt mit Kinderzahl
+- Kinder als Schwächung der individuellen Arbeitsmarktchancen (Flexibilität etc.)
+
+##Aufwachsen und Wandel der Eltern-Kind-Beziehung
+- Fortgeschrittene Industriegesellschaften: Kind als "Wunschkind" immaterieller Sinnerfüllung
+	- große Ansprüche an Kinder: Mängel korrigieren, Anlagen stärken
+- Erziehung als Konkurrenzkampf
+	- Frühforderung → Karrierevorsprung
+	- Erziehungsdruck: traditionelle Erziehung problematisiert → Übererziehung und/oder vernachlässigte Erziehung
+	- Folgen: Stress und Erschöpfung der Kinder
+- Geburtenrückgang beeinflusst innerfamiliale Interaktion qualitativ und quantitativ, da Gruppenstruktur und -dynamik durch Gruppengröße bestimmt
+- Eltern als vermehrte Bezugspersonen, da weniger Geschwister/Gleichaltrige vorhanden
+- stabileres Familiensystem bei elternunabhängigen Triaden: fehlt in Zwei-Kind-Familien → intensivierte Eltern-Kind-Beziehungen
+
+###Veränderung der Elternrolle
+- Umgang mit Kindern ist wichtiger Bezugspunkt der elterlichen Orientierung geworden → Kinder als Träger des Lebenssinns der Eltern
+- erhöhte Ansprüche an elterliche Erziehungsleistung
+- Eltern als Partner der Kinder → Möglichkeit, individuelle Interessen auszuhandeln
+
+###Liberalisierungstendenzen
+- Rangverminderung von Pflicht- und Akzeptanzwerten, Bedeutungsgewinn von Selbstentfaltungswerten
+- Liberalisierung der Erziehungskultur (Befehls- -> Verhandlungshaushalt)
+
+FV 10.2 -- Väter
+================
+>_Beschreiben Sie die fünf Phasen in der Entwicklung der Vaterforschung nach Fthenakis! Welche Forschungsfragen sind noch offen (nennen Sie 6 Beispiele)? Erläutern Sie, welche Forschungsergebnisse zum väterlichen Engagement vorliegen! Skizzieren Sie drei theoretische Ansätze und dazugehörige Forschungsbefunde zum Ausmaß väterlichen Engagements!_
+
+##Phasen in der Entwicklung der Vaterforschung nach Fthenakis
+1. Anfangsphase
+	- Kulturanthropologische Arbeiten: elterliches Rollenverhalten ist kulturell bedingt und veränderlich
+	- Tierexperimentelle Arbeiten: Frage nach biologischer Determiniertheit väterlichen Verhaltens
+2. Vaterabwesenheit (Kriegsende bis Ende 60er): defizitorientierte Ansätze
+	- kognitive Kindesentwicklung: Vaterverlust am negativsten im frühen Kindesalter von langer Dauer
+	- moralische Kindesentwicklung: viele delinquente Jugendliche vaterlos, Entwicklungsrückstände bei Jungen
+3. Übertragung von Fragestellungen und Methodologie aus Mutterforschung in Vaterforschung (60er-70er): Partizipation des Vaters an haushalts- und kindbezogenen Aufgaben? Qualität der Vater-Kind-Beziehung?
+	- Kleinkinder können ähnlich intensive Bindungen zu Vater und Mutter entwickeln
+	- Überwindung der natürlichen Exklusivität der Mutter-Kind-Beziehung
+4. systemische Perspektiven (Ende 70er)
+	- gute Partnerschaft fördert Wohlbefinden der werdenden Mutter
+	- Nachteil der Phase: Rollenverteilung zu wenig differenziert
+5. integrierter Bestandteil der Familienforschung (seit Beginn 90er)
+	- Integration der soziologischen Perspektiven in Konstrukten der psychologischen Androgynie
+	- stark an Erziehung beteiligte Väter können instrumentelle und expressive Funktionen nach Parsons' Rollentheorie haben und zeigen gegenüber Kindern breiteres Verhaltensspektrum als Väter in klassischen Familien
+	- Kinder engagierter Väter empathischer und strebsamer nach besseren Leistungen und Selbstständigkeit
+	- Vater- und Mutterrolle nicht mehr mit klassischer Aufteilung zu beschreiben
+
+##Sechs offene Forschungsfragen
+1. Sozialisationsbeitrag eines Vaters, der nicht mit Kind zusammenlebt?
+2. Bedingungen für positive Förderbeiträge des Vaters?
+3. Beitrag des Kindes für Engagement des Vaters?
+4. Bedeutung Stiefväter?
+5. Veränderung des väterlichen Engagements?
+6. Genetische Bedingung des väterlichen Betreuungsbeitrags?
+
+##Väterliches Engagement
+###Forschungsergebnisse
+- Engagement u.a. abhängig von Berufstätigkeit der Mutter, eigener und der Partnerin Geschlechts- und Elternrollenorientierung sowie Partnerzufriedenheit
+- stärkeres Engagement bei leiblichen Kindern
+- bei sehr kleinen Kindern weniger Einsatz
+- am aktivsten im Schulalter, besonders beim Spielen
+- Mittelschichtsväter am engagiertesten
+- stärker bei Söhnen
+
+###Theorieansätze
+#### New Home Economics Theory
+- Partner mit höherem Einkommen weniger Zeit für Haushaltstätigkeit -> Maximierung des Haushaltseinkommens
+
+###Rollentheoretische Perspektive
+- geschlechtsspezifische Sozialisation als Schlüssel zum Verständnis familialer Aufgabenteilung
+- traditionelles Rollenverständnis -> traditionellere Rollenteilung
+- viel empirische Bestätigung
+
+###familienzyklischer Ansatz
+- Entwicklung der Familie -> veränderte Anforderungen und Beziehungsmuster
+- Erklärung für unterschiedliche väterliche Partizipation in bestimmten Phasen der Familienentwicklung
