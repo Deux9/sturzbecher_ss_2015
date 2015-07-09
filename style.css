@@ -27,3 +27,11 @@ a {
 		background-color:#d64937;
 		color:#ffffff
 	}
+
+@media screen and (max-width: 1000px) {
+	html {
+		max-width:98%;
+		font-size:24px;
+	}
+	
+ }
