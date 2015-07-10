@@ -153,8 +153,8 @@ in 30er Jahren 3 Arten der Veränderungen als Unterschied von deprivierten und n
 5. Lebensstufenprinzip
 	- Entstehung und Bewältigung der Diskrepanzen verlaufen abhängig von den sich im Laufe des Lebens verändernden Entwicklungsaufgaben und -voraussetungen des Individuums
 
-JV -- 12.1
-==========
+JV 12.1 -- Jugend und Partizipation
+===================================
 >_Was versteht man unter "Partizipation" und "partizipativem Handeln" im Vergleich zu "Kooperation" und "kooperativem Handeln"? Welchen Nutzen haben partizipative Handlungsspielräume in Bildungseinrichtungen? Erläutern Sie, wie Partizipation auf der interaktionalen Ebene "funktioniert"! Beschreiben Sie kurz konsultative Partizipationsformen Heranwachsender!_
 
 ##Begriffe
@@ -416,3 +416,48 @@ FV 10.2 -- Väter
 ####familienzyklischer Ansatz
 - Entwicklung der Familie -> veränderte Anforderungen und Beziehungsmuster
 - Erklärung für unterschiedliche väterliche Partizipation in bestimmten Phasen der Familienentwicklung
+
+FV 11.1 -- Großeltern
+=====================
+>_Welche Rolle spielen Großeltern bzw. welche Funktionen erfüllen sie? Gehen Sie auf den historischen Wandel der Bedingungen für
+Großelternschaft, auf Zukunftstrends und auf das veränderte Rollenverständnis von Großeltern ein! Skizzieren Sie kurz die Formen
+des intergenerativen Leistungstransfers zwischen Großeltern und Enkeln und beschreiben Sie die Kontextfaktoren, die auf seine
+Realisierung einwirken!_
+
+##Rolle und Funktion
+- keine feste Rollendefinition -> keine feste gesellschaftliche Funktion
+- Große Verhaltensvariabilität
+- Unterstützungsfunktion im Hinblick auf funktionale, spezialisierte Leistungserfüllung durch die Familie
+- Unterstützung der Sozialisation von erwachsenen Kindern und Enkeln erwartet
+- Selbstzuschreibung der Sozialistationsaufgabe der Enkel
+- ergänzend und kompensierend zum Erziehungsauftrag der Eltern
+- Doppelte Eltern-Rolle: direkt bei Kindern, latent bei Enkeln
+- Elternrolle minderen Rechts, weniger Verantwortung für Enkel + reduzierter Kontakt als Eltern
+- Recht auf Umgang mit Enkeln
+
+##Historischer Wandel von Großelternschaft
+- steigende Lebenserwartung im 20. Jahrhundert sorgt für Zeit mit Enkeln
+- Demographische Entwicklung
+- weniger Verbindlichkeit kulturell institutionalisierter Rollenkonzepte
+- modernes System staatlicher Vorsorge
+- veränderte Bedeutung des Kindes
+- Technischer Fortschritt
+- Erfahrungsaustausch zwischen Großeltern und Enkeln
+
+##Zukunftstrends
+- Bohnenstangenfamilie
+- Mehr Einzelkinder von vier Großeltern verwöhnt
+- Antieg Kinderlosigkeit, steigenden Anzahl von enkellosen alten Menschen
+
+##verändertes Rollenverständnis
+- distanziert-respektvolle hierarchisch strukturierte Beziehung -> Wärme, Nähe Zuneigung und Freundschaft
+- Gemeinsame Freizeitaktivitäten
+- Fehlen direkter Erziehungsverantwortung
+- Generationsverhältnis ausgehandelt (Verantwortung, Pflichten, Absprachen)
+
+##intergenerativer Leistungstransfer
+- wechselseitig ausgewogener Austausch immaterieller und materieller Leistungen, z.B. Zeit und Fürsorge
+- Kontextfaktoren: staatliche Transferleistungen, gesellschaftliche Normen
+- Familie als Solidargemeinschaft in Frage gestellt
+- Freiheit und Selbstverwirklichung -> Abneigungen gegenüber langfristiger Verpflichtungen
+- materielle Leistungen von oben nach unten
