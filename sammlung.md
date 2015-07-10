@@ -456,8 +456,48 @@ Realisierung einwirken!_
 - Generationsverhältnis ausgehandelt (Verantwortung, Pflichten, Absprachen)
 
 ##intergenerativer Leistungstransfer
-- wechselseitig ausgewogener Austausch immaterieller und materieller Leistungen, z.B. Zeit und Fürsorge
-- Kontextfaktoren: staatliche Transferleistungen, gesellschaftliche Normen
+- wechselseitig ausgewogener Austausch immaterieller und materieller Leistungen
+	- Zeit und Fürsorge
+	- Materielle Leistungen
+	- Wissen und Können
 - Familie als Solidargemeinschaft in Frage gestellt
 - Freiheit und Selbstverwirklichung -> Abneigungen gegenüber langfristiger Verpflichtungen
 - materielle Leistungen von oben nach unten
+
+###Kontextfaktoren
+- soziodemographische und ökonomische Faktoren
+- staatliche Transferleistungen
+- Familiäre Ereignisse und familienzyklische Phasen
+
+FV 11.2 -- Lebenssituation der Großeltern
+=========================================
+>_Beschreiben Sie kurz die Lebenssituation der Großelterngeneration (z.B. Einkommens- und Wohnsituation, Lebenszufriedenheit). Erläutern Sie die (soziologische) Herkunft und den Inhalt der Begriffe "Generation", "Generationenkonflikt" und "Generationenvertrag"! Welche Einflussfaktoren beeinflussen die intergenerativen Transfers? Wodurch wird der Fortbestand des Generationenvertrags belastet?_
+
+##Lebenssituation
+- bessere Einkommen, Gesundheit und Bildung als früher
+- wenig Armut und Reichtum
+- leben fast ausschließlich in Ein-Generationen-Haushalten, aber viele in Drei-Generationen-Netzwerk
+- sollen länger in Erwerbsleben eingebunden werden
+- kaufkräftige Zielgruppe
+- Zufrieden
+
+##Generationenkonflikt nach Mannheim
+- Menschen derselben Geburtsjahrägnge (=Generation) machen im selben Sozialraum während des Aufwachsens vergleichbare sozio-politische Erfahrungen -> spezifische soziale Gruppe
+- Zugehörigkeit zu Generation beschränkt Mitglieder in Erlebnis- und Chancenverwertungsmöglichkeiten und prädisponiert für Denkweisen -> Einstellungen und Werte können in Konflikt mit älteren Generationen geraten
+
+##Generationenvertrag
+- wechselseitige Verpflichtungen und Erwartungen über Austausch zwischen Familienmitgliedern verschiedener Generationen
+- drei Arten von Verpflichtungen
+	1. Biosoziale Nachfolge: Jede Generation zieht Kinder auf (sozialisation)
+	2. Gerosoziale Nachfolge: Jede Generation stellt zum Aufziehen ihrer Nachkommen ausreichend Ressourcen bereit
+	3. Geriatrische Abhängigkeit: Jede Generation von Nachkommen respektiert und bekommt Hilfe beim Altern und Sterben
+
+###Kontextfaktoren
+- soziodemographische und ökonomische Faktoren
+- staatliche Transferleistungen
+- Familiäre Ereignisse und familienzyklische Phasen
+
+###Belastungen
+- wachsender Anteil älterer Menschcen
+- Pflegenotstand: Defizite der Pflegeversicherung, unzureichende Renten
+- Debatte "Generationengerechtigkeit": Vorwurf, ältere Generationen würden unfairerweise auf Kosten der Jüngeren profitieren
