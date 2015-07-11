@@ -583,13 +583,13 @@ erarbeitet werden und welche Funktion sie haben!_
 	- Fürsorgeerziehung (Eingriff in elterliche Gewalt)
 	- Jugendpflege und Fürsorge für Säuglinge und KLeinkinder
 
-###Sozialberichterstattung
+##Sozialberichterstattung
 von Bundesregierung bei Sachverständigenkommission in Auftrag gegeben
-####Kinder- und Jugendbericht
+###Kinder- und Jugendbericht
 - jede Legislaturperiode
 - Bestandsaufnahme, Analyse, Vorschläge zur Weiterentwicklung der Jugendhilfe
 - jeder dritte Berciht: Überblick über Gesamtsituation der Jugendhilfe
 
-####Familienbericht
+###Familienbericht
 - mindestens jede 2. Legislaturperiode
 - mittelfristige Perspektiven erschließen und Handlungsempfehlungen geben
