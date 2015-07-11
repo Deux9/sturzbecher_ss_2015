@@ -584,7 +584,9 @@ erarbeitet werden und welche Funktion sie haben!_
 	- Jugendpflege und Fürsorge für Säuglinge und KLeinkinder
 
 ##Sozialberichterstattung
+
 von Bundesregierung bei Sachverständigenkommission in Auftrag gegeben
+
 ###Kinder- und Jugendbericht
 - jede Legislaturperiode
 - Bestandsaufnahme, Analyse, Vorschläge zur Weiterentwicklung der Jugendhilfe
