@@ -498,6 +498,98 @@ FV 11.2 -- Lebenssituation der Großeltern
 - Familiäre Ereignisse und familienzyklische Phasen
 
 ###Belastungen
-- wachsender Anteil älterer Menschcen
+- demographischer Wandel: wachsender Anteil älterer Menschen
 - Pflegenotstand: Defizite der Pflegeversicherung, unzureichende Renten
 - Debatte "Generationengerechtigkeit": Vorwurf, ältere Generationen würden unfairerweise auf Kosten der Jüngeren profitieren
+
+FV 12.1 -- Jugendhilfe
+======================
+>_Skizzieren Sie die Entstehung des Jugendhilfesystems vom Mittelalter bis zum Reichsjugendwohlfahrtsgesetz (1922) und gehen Sie
+dabei auf markante Meilensteine zur Linderung des Elends und der Bildungsnot von Kindern und Jugendlichen ein! Beschreiben Sie
+kurz, in welchem Turnus und vom wem die „Kinder- und Jugendberichte“ sowie die „Familienberichte“ der Bundesregierung
+erarbeitet werden und welche Funktion sie haben!_
+
+##Geschichte
+###Mittelalter
+- Bedürftige, Waisen, Findlinge als Zielgruppe christlicher Almosentätigkeit
+	- "Recht" auf Betteln, später reguliert
+	- Bettlerkinder von Eltern getrennt und Arbeitsplatz vermittelt
+- karitatives Hilfesystem -> "Elendsherbergen"
+- Spätmittelalter: Findel- und Waisenhäuser entstehen
+
+###Konzeption von Francke/Halle'sche Anstalten
+- religiöse Erziehung: ausgeprägter Religionsunterricht
+- unermüdliche Beschäftigung -> Müßiggang als Sünde
+
+###18. Jahrhundert
+- Frühe industrielle Revolution: Zuspitzung von Armut und Ausbeutung von Kindern und Jugendlichen -> Regulation um langfristig gesunde Rekruten und Arbeitskräfte zu garantieren
+- Preußen: Schulpflicht von 5 bis 12
+- Verstaatlichung der Armenpflege
+	- erste Sozialleistungen
+	- Strafen bei "Müßiggang" -> z.B. Einweisung ins Arbeitshaus
+	
+###19. Jahrhundert
+- Schutzbestimmungen für Kinder und Jugendliche unter den schlechten Arbeitsbedingungen (lang, gesundheitsgefährdend)
+	- Verbot von Kinderarbeit im Bergbau und
+	- generell unter 10
+
+
+####Fröbelsche Kindergärten
+- Förderung durch spielbasierte Beschäftigung
+- Erziehung als Werk von Familie, Kindergarten und Schule
+
+####Rauhes Haus
+- Ersetzung erziehungsunfähiger Familien
+- freiwillige Erziehung
+- Rückkehroption zu Eltern
+- 10-12 Kinder + 1 Erzieher
+- elementarer Schulunterricht
+
+####Elberfelder System
+- Verwaltungsstruktur für Armenpflege
+	- Bedürftigkeitsprüfung
+	- Individualisierung der Unterstützungsleistung
+	- Dezentralisierung der Entscheidungsbefugnisse
+	- Quartierssystem
+- kontrollierbare Armenverwaltung mit Rechtsaufsicht:
+	- ehrenamtlicher Armenpfleger dokumentiert, diagnostiziert und erzieht
+	- keine Gewährung von Dauerleistungen
+
+####Reichsverfassung
+- Kinder- und Jugendfürsorge als Kompetenz der Länder
+
+####Bismarcksche Sozialgesetze
+- "Zuckerbrot" für die Arbeiter
+- Einführung allgemeiner Sozialversicherungen
+
+###20. Jahrhundert
+####1905 Kommunales Straßburger System
+- Zentralisierung: "Armenamt" mit alleinigen Entscheidungsbefugnissen
+- professionelle Armenpfleger
+
+####1911 Preußischer Jugendpflegeerlass für potentiell gefährdete Jugendliche
+- Intervention im Interesse der sozialen Integration der neuen Generation
+- Fürsorge im Staatsinne: Erziehung zur Normkonformität -> Rekruten
+
+####Reichsjugendwohlfahrtsgesetz 1922
+- Recht "auf Erziehung zur leiblichen, seelischen und gesellschaftlichen Tüchtigkeit"
+- eher Eingriffs- als Leistungsgesetz
+- familiäre Erziehung mit öffentlicher Unterstützung -> unabhängig von staatlicher Bevormundung
+- aber staatlich kontrolliert und überwacht
+	- Jugendämter als erste einheitliche kommunale Erziehungsbehörde
+	- Inkorporation freier Wohlfahrtspflege
+- Bürokratisierung und Konzentration:
+	- Schutz von Pflegekindern, Amtsvormundschaft
+	- Fürsorgeerziehung (Eingriff in elterliche Gewalt)
+	- Jugendpflege und Fürsorge für Säuglinge und KLeinkinder
+
+###Sozialberichterstattung
+von Bundesregierung bei Sachverständigenkommission in Auftrag gegeben
+####Kinder- und Jugendbericht
+- jede Legislaturperiode
+- Bestandsaufnahme, Analyse, Vorschläge zur Weiterentwicklung der Jugendhilfe
+- jeder dritte Berciht: Überblick über Gesamtsituation der Jugendhilfe
+
+####Familienbericht
+- mindestens jede 2. Legislaturperiode
+- mittelfristige Perspektiven erschließen und Handlungsempfehlungen geben
