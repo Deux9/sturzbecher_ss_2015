@@ -362,7 +362,7 @@ FV 8.2 -- Kinderwunsch
 
 ###Liberalisierungstendenzen
 - Rangverminderung von Pflicht- und Akzeptanzwerten, Bedeutungsgewinn von Selbstentfaltungswerten
-- Liberalisierung der Erziehungskultur (Befehls- -> Verhandlungshaushalt)
+- Liberalisierung der Erziehungskultur (Befehls- → Verhandlungshaushalt)
 
 FV 10.2 -- Väter
 ================
@@ -406,15 +406,15 @@ FV 10.2 -- Väter
 
 ###Theorieansätze
 #### New Home Economics Theory
-- Partner mit höherem Einkommen weniger Zeit für Haushaltstätigkeit -> Maximierung des Haushaltseinkommens
+- Partner mit höherem Einkommen weniger Zeit für Haushaltstätigkeit → Maximierung des Haushaltseinkommens
 
 ####Rollentheoretische Perspektive
 - geschlechtsspezifische Sozialisation als Schlüssel zum Verständnis familialer Aufgabenteilung
-- traditionelles Rollenverständnis -> traditionellere Rollenteilung
+- traditionelles Rollenverständnis → traditionellere Rollenteilung
 - viel empirische Bestätigung
 
 ####familienzyklischer Ansatz
-- Entwicklung der Familie -> veränderte Anforderungen und Beziehungsmuster
+- Entwicklung der Familie → veränderte Anforderungen und Beziehungsmuster
 - Erklärung für unterschiedliche väterliche Partizipation in bestimmten Phasen der Familienentwicklung
 
 FV 11.1 -- Großeltern
@@ -425,7 +425,7 @@ des intergenerativen Leistungstransfers zwischen Großeltern und Enkeln und besc
 Realisierung einwirken!_
 
 ##Rolle und Funktion
-- keine feste Rollendefinition -> keine feste gesellschaftliche Funktion
+- keine feste Rollendefinition → keine feste gesellschaftliche Funktion
 - Große Verhaltensvariabilität
 - Unterstützungsfunktion im Hinblick auf funktionale, spezialisierte Leistungserfüllung durch die Familie
 - Unterstützung der Sozialisation von erwachsenen Kindern und Enkeln erwartet
@@ -450,7 +450,7 @@ Realisierung einwirken!_
 - Antieg Kinderlosigkeit, steigenden Anzahl von enkellosen alten Menschen
 
 ##verändertes Rollenverständnis
-- distanziert-respektvolle hierarchisch strukturierte Beziehung -> Wärme, Nähe Zuneigung und Freundschaft
+- distanziert-respektvolle hierarchisch strukturierte Beziehung → Wärme, Nähe Zuneigung und Freundschaft
 - Gemeinsame Freizeitaktivitäten
 - Fehlen direkter Erziehungsverantwortung
 - Generationsverhältnis ausgehandelt (Verantwortung, Pflichten, Absprachen)
@@ -461,7 +461,7 @@ Realisierung einwirken!_
 	- Materielle Leistungen
 	- Wissen und Können
 - Familie als Solidargemeinschaft in Frage gestellt
-- Freiheit und Selbstverwirklichung -> Abneigungen gegenüber langfristiger Verpflichtungen
+- Freiheit und Selbstverwirklichung → Abneigungen gegenüber langfristiger Verpflichtungen
 - materielle Leistungen von oben nach unten
 
 ###Kontextfaktoren
@@ -482,8 +482,8 @@ FV 11.2 -- Lebenssituation der Großeltern
 - Zufrieden
 
 ##Generationenkonflikt nach Mannheim
-- Menschen derselben Geburtsjahrägnge (=Generation) machen im selben Sozialraum während des Aufwachsens vergleichbare sozio-politische Erfahrungen -> spezifische soziale Gruppe
-- Zugehörigkeit zu Generation beschränkt Mitglieder in Erlebnis- und Chancenverwertungsmöglichkeiten und prädisponiert für Denkweisen -> Einstellungen und Werte können in Konflikt mit älteren Generationen geraten
+- Menschen derselben Geburtsjahrägnge (=Generation) machen im selben Sozialraum während des Aufwachsens vergleichbare sozio-politische Erfahrungen → spezifische soziale Gruppe
+- Zugehörigkeit zu Generation beschränkt Mitglieder in Erlebnis- und Chancenverwertungsmöglichkeiten und prädisponiert für Denkweisen → Einstellungen und Werte können in Konflikt mit älteren Generationen geraten
 
 ##Generationenvertrag
 - wechselseitige Verpflichtungen und Erwartungen über Austausch zwischen Familienmitgliedern verschiedener Generationen
@@ -514,19 +514,19 @@ erarbeitet werden und welche Funktion sie haben!_
 - Bedürftige, Waisen, Findlinge als Zielgruppe christlicher Almosentätigkeit
 	- "Recht" auf Betteln, später reguliert
 	- Bettlerkinder von Eltern getrennt und Arbeitsplatz vermittelt
-- karitatives Hilfesystem -> "Elendsherbergen"
+- karitatives Hilfesystem → "Elendsherbergen"
 - Spätmittelalter: Findel- und Waisenhäuser entstehen
 
 ###Konzeption von Francke/Halle'sche Anstalten
 - religiöse Erziehung: ausgeprägter Religionsunterricht
-- unermüdliche Beschäftigung -> Müßiggang als Sünde
+- unermüdliche Beschäftigung → Müßiggang als Sünde
 
 ###18. Jahrhundert
-- Frühe industrielle Revolution: Zuspitzung von Armut und Ausbeutung von Kindern und Jugendlichen -> Regulation um langfristig gesunde Rekruten und Arbeitskräfte zu garantieren
+- Frühe industrielle Revolution: Zuspitzung von Armut und Ausbeutung von Kindern und Jugendlichen → Regulation um langfristig gesunde Rekruten und Arbeitskräfte zu garantieren
 - Preußen: Schulpflicht von 5 bis 12
 - Verstaatlichung der Armenpflege
 	- erste Sozialleistungen
-	- Strafen bei "Müßiggang" -> z.B. Einweisung ins Arbeitshaus
+	- Strafen bei "Müßiggang" → z.B. Einweisung ins Arbeitshaus
 	
 ###19. Jahrhundert
 - Schutzbestimmungen für Kinder und Jugendliche unter den schlechten Arbeitsbedingungen (lang, gesundheitsgefährdend)
@@ -569,12 +569,12 @@ erarbeitet werden und welche Funktion sie haben!_
 
 ####1911 Preußischer Jugendpflegeerlass für potentiell gefährdete Jugendliche
 - Intervention im Interesse der sozialen Integration der neuen Generation
-- Fürsorge im Staatsinne: Erziehung zur Normkonformität -> Rekruten
+- Fürsorge im Staatsinne: Erziehung zur Normkonformität → Rekruten
 
 ####Reichsjugendwohlfahrtsgesetz 1922
 - Recht "auf Erziehung zur leiblichen, seelischen und gesellschaftlichen Tüchtigkeit"
 - eher Eingriffs- als Leistungsgesetz
-- familiäre Erziehung mit öffentlicher Unterstützung -> unabhängig von staatlicher Bevormundung
+- familiäre Erziehung mit öffentlicher Unterstützung → unabhängig von staatlicher Bevormundung
 - aber staatlich kontrolliert und überwacht
 	- Jugendämter als erste einheitliche kommunale Erziehungsbehörde
 	- Inkorporation freier Wohlfahrtspflege
