@@ -239,7 +239,7 @@ JV 13.1 -- Werte
 - Wertesynthese: Beide Wertgruppen von Wertewandel betroffen. Keine exklusiven Pole → keine Verschiebung sondern Rekombination
 
 ####Lebenszyklus-Hypothese
-- Veränderungen individueller Wertorientierungen durch Anspassung an lebensphasenspezifische Rollenanforderungen möglich
+- Veränderungen individueller Wertorientierungen durch Anpassung an lebensphasenspezifische Rollenanforderungen möglich
 
 ####Methodik:
 - Ra _t_ ing-Verfahren: voneinander unabhängige Pflicht- und Selbstentfaltungswerte sollen nach Indikatoren einzeln hinsichtlich ihrer Wichtigkeit beurteilt werden
@@ -252,71 +252,6 @@ JV 13.1 -- Werte
 - postmaterialistisch:
 	- Soziale Bedürfnisse: Partnerschaft, Kommunikation, Freunde
 	- Individualbedürfnisse: Status, Macht, Karriere
-
-JV 14.1 -- Zukunftserwartungen
-==============================
-
->_Erläutern Sie, was "Zukunftserwartungen" sind, wozu sie dienen und in welchem Zusammenhang sie zu Persönlichkeitsmerkmalen wie Selbstwirksamkeits- und Kontrollüberzeugungen stehen! Was versteht man unter "Heimatverbundenheit" und welche Faktoren beeinflussen die Heimatverbundenheit bzw. die Zufriedenheit mit dem Heimatort bei Jugendlichen nachweislich (vier Beispiele)? Beschreiben Sie das Migrationsverhalten von (ostdeutschen) Frauen einschließlich ihrer Beweggründe für Migration! Nennen Sie Schlussfolgerungen für eine erfolgreiche Regionalpolitik!_
-
-##Definition
-
-psychische Repräsentationen über zukünftige Lebensereignisse
-
-- positiv: Wünsche, Hoffnungen
-- negativ: Befürchtungen, Ängste
-
-Fusion: Orientierungs- und Strukturieungshilfe für die Lebenshilfe
-
-##Zukunftserwartungen und Persönlichkeit
-
-- verschiedene Planungs- und Verhaltensrelevanz individueller und gesellschaftlicher Zukunftserwartungen → unterschiedlicher Zusammenhang zum Selbstwirksamkeitserleben
-- Überschätzung eigener Handlungsfähigkeit motiviert und ist selbstwertstabilisierend, -erhöhend
-- Kontrollüberzeugungen: Erwartungen, inwieweit das egeiene Handeln und seine Folgen dem eigenen Einfluss zugänglich sind
-	- External: fremde Mächte (Gott)
-	- Internal: eigenen Glückes Schmied
-- internale Kontrollüberzeugung hat direkten Einfluss auf Zukunftserwartungen (internal → Optimismus, external → Blockade positiver Zukunftserwartung)
-
-##Heimatverbundenheit
-emotionale Identifikation mit einer vertrauten Region
-
-- soziale Zugehörigkeit
-- Geborgenheit
-- Interesse am kommunalen Geschehen
-- Verpflichtung
-
-###Einflussfaktoren für Heimatverbundenheit
-
-- Soziodemografische Angaben (Alter, Geschlecht, Wohnort)
-- Lebensziele (Familienorientierung, Beruf)
-- Soziale Netzwerke (Freundschaften, Vereine)
-- Ressourcen der Kommune (Bevölkerung, Arbeitsmarkt)
-
-##Migrationsverhalten von ostdeutschen Frauen
-- Gründe
-	- Partnermarkt (am Häufigsten)
-	- Bildung: Aussicht auf Qualifizierung
-	- Soziale Netzwerke
-- Mütter mit Kindern weniger mobil - mehr Wanderung von kinderlosen Frauen
-- Exogene Faktoren
-	- Arbeitsplatzangebot
-	- Lebensbedingungen
-	- Image der Region
-	- sozio-ökonomischer Status
-- Indogene Faktoren
-	- Qualifikation
-	- Berufsorientierung
-	- Motivation
-	-Familienorientierung
-- erleichternde Faktoren
-	- Migrationsnetzwerke
-	- Mobilitätsbeihilfen
-	- Beispiele von Freunden, Verwandten
-	
-##Erfolgreiche Regionalpolitik
-- Berücksichtigung von Frauen als wichtiger Migrantengruppe und Doppelorientierung von Familie und Beruf
-- Investition in wirtschaftliche Leistungsfähigkeit, Stärkung der Rahmenbedingungen, Stärkung der Familie, Nachbarschaft, Kultur, Lebensqualität
-- Arbeitsmarkt, der Vereinbarkeit von Beruf und Familie ermöglichst
-- Attraktive Studien- und Ausbildungsangebote
 
 FV 8.2 -- Kinderwunsch
 ======================
@@ -417,8 +352,8 @@ FV 10.2 -- Väter
 - Entwicklung der Familie → veränderte Anforderungen und Beziehungsmuster
 - Erklärung für unterschiedliche väterliche Partizipation in bestimmten Phasen der Familienentwicklung
 
-FV 11.1 -- Großeltern
-=====================
+FV 11.1 -- Großeltern (wichtig)
+===============================
 >_Welche Rolle spielen Großeltern bzw. welche Funktionen erfüllen sie? Gehen Sie auf den historischen Wandel der Bedingungen für
 Großelternschaft, auf Zukunftstrends und auf das veränderte Rollenverständnis von Großeltern ein! Skizzieren Sie kurz die Formen
 des intergenerativen Leistungstransfers zwischen Großeltern und Enkeln und beschreiben Sie die Kontextfaktoren, die auf seine
@@ -469,8 +404,8 @@ Realisierung einwirken!_
 - staatliche Transferleistungen
 - Familiäre Ereignisse und familienzyklische Phasen
 
-FV 11.2 -- Lebenssituation der Großeltern
-=========================================
+FV 11.2 -- Lebenssituation der Großeltern (wichtig)
+===================================================
 >_Beschreiben Sie kurz die Lebenssituation der Großelterngeneration (z.B. Einkommens- und Wohnsituation, Lebenszufriedenheit). Erläutern Sie die (soziologische) Herkunft und den Inhalt der Begriffe "Generation", "Generationenkonflikt" und "Generationenvertrag"! Welche Einflussfaktoren beeinflussen die intergenerativen Transfers? Wodurch wird der Fortbestand des Generationenvertrags belastet?_
 
 ##Lebenssituation
@@ -502,8 +437,8 @@ FV 11.2 -- Lebenssituation der Großeltern
 - Pflegenotstand: Defizite der Pflegeversicherung, unzureichende Renten
 - Debatte "Generationengerechtigkeit": Vorwurf, ältere Generationen würden unfairerweise auf Kosten der Jüngeren profitieren
 
-FV 12.1 -- Jugendhilfe
-======================
+FV 12.1 -- Jugendhilfe (unwichtig?)
+===================================
 >_Skizzieren Sie die Entstehung des Jugendhilfesystems vom Mittelalter bis zum Reichsjugendwohlfahrtsgesetz (1922) und gehen Sie
 dabei auf markante Meilensteine zur Linderung des Elends und der Bildungsnot von Kindern und Jugendlichen ein! Beschreiben Sie
 kurz, in welchem Turnus und vom wem die „Kinder- und Jugendberichte“ sowie die „Familienberichte“ der Bundesregierung
@@ -581,7 +516,7 @@ erarbeitet werden und welche Funktion sie haben!_
 - Bürokratisierung und Konzentration:
 	- Schutz von Pflegekindern, Amtsvormundschaft
 	- Fürsorgeerziehung (Eingriff in elterliche Gewalt)
-	- Jugendpflege und Fürsorge für Säuglinge und KLeinkinder
+	- Jugendpflege und Fürsorge für Säuglinge und Kleinkinder
 
 ##Sozialberichterstattung
 
@@ -590,7 +525,7 @@ von Bundesregierung bei Sachverständigenkommission in Auftrag gegeben
 ###Kinder- und Jugendbericht
 - jede Legislaturperiode
 - Bestandsaufnahme, Analyse, Vorschläge zur Weiterentwicklung der Jugendhilfe
-- jeder dritte Berciht: Überblick über Gesamtsituation der Jugendhilfe
+- jeder dritte Bericht: Überblick über Gesamtsituation der Jugendhilfe
 
 ###Familienbericht
 - mindestens jede 2. Legislaturperiode
